@@ -1,3 +1,10 @@
+# How to run this
+in order to run this on your computer, follow the steps:
+1. clone the repo to your local environment
+2. run npm install
+3. to run UI tests, simply run the command `npm run ui` in your terminal
+4. to run API tests, simply run the command `npm run api` in your terminal
+
 # Dropit Automation test
 
 Before you start, notice that the test is about your coding style, readability & architecture. Write it in your favorite language and try to show us what you got. 
